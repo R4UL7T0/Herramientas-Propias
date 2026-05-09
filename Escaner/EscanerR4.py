@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Escáner de puertos ULTRA RÁPIDO - R4-SEC Security Scanner
-Uso: python3 EscanerPro.py <ip> [-p puertos] [--fast] [--insane]
+
+Versión 1.0
+
 """
 
 import socket
